@@ -1,0 +1,87 @@
+.image {
+    font-size: 15;
+    -webkit-text-fill-color: rgb(12, 5, 57);
+    font: Monotype corsiva;
+    margin: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.full{
+    width:100%;
+    max-width: 1000px;
+    max-height:100px;
+    display: grid;
+    background-color: white;
+    background-image: "https://pixabay.com/vectors/triangles-polygon-geometric-texture-1430105/";
+    grid-template-columns: 2fr 4fr;
+}
+.left{
+    position: initial;
+    font-style: italic;
+    padding: 40px;
+    background-color: darkgrey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.right{
+    background-color: rgb(92, 96, 134);
+    -webkit-text-fill-color: rgb(19, 12, 12);
+    padding: 50px;
+}
+.head{
+    font-size: 28;
+    font: Monotype corsiva;
+}
+.con{
+    font-style: normal;
+    -webkit-text-fill-color: blue;
+    font-size: 20;
+    padding:20px;
+    border-style:solid;
+    border-width: ;
+    border-color:black;
+}
+.edu{
+    font-style: italic;
+    -webkit-text-fill-color: rgb(12, 12, 77);
+    font-size: 20;
+    padding:20px;
+    border-style:solid;
+    border-width: ;
+    border-color:#0d0d0d;
+}
+.lan{
+    font-style: italic;
+    -webkit-text-fill-color: #010116;
+    font-size: 20;
+    padding:20px;
+    border-style:solid;
+    border-width: ;
+    border-color:#e9efef;
+}
+.sum{
+    font-style: italic;
+    -webkit-text-fill-color: #030321;
+    font-size: 20;
+    padding:20px;
+    border-style:solid;
+    border-width: ;
+    border-color:#eae8e8;
+}
+.sk{
+    font-style: italic;
+    -webkit-text-fill-color: rgb(3, 3, 33);
+    font-size: 20;
+    padding:20px;
+    border-style:solid;
+    border-width: ;
+    border-color:#eae8e8;
+}
+.cft{
+    font-style: italic;
+    -webkit-text-fill-color: rgb(3, 3, 33);
+    font-size: 20;
+    padding:20px;
+    border-style:solid;
+    border-width: ;
+    border-color:#eae8e8;
+}
